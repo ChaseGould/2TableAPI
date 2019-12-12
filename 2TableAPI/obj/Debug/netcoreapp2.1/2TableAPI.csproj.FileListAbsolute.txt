@@ -1,0 +1,16 @@
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\bin\Debug\netcoreapp2.1\2TableAPI.deps.json
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\bin\Debug\netcoreapp2.1\2TableAPI.runtimeconfig.json
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\bin\Debug\netcoreapp2.1\2TableAPI.runtimeconfig.dev.json
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\bin\Debug\netcoreapp2.1\2TableAPI.dll
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\obj\Debug\netcoreapp2.1\2TableAPI.csprojAssemblyReference.cache
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\obj\Debug\netcoreapp2.1\2TableAPI.RazorAssemblyInfo.cache
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\obj\Debug\netcoreapp2.1\2TableAPI.RazorAssemblyInfo.cs
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\obj\Debug\netcoreapp2.1\2TableAPI.AssemblyInfoInputs.cache
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\obj\Debug\netcoreapp2.1\2TableAPI.AssemblyInfo.cs
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\obj\Debug\netcoreapp2.1\2TableAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\bin\Debug\netcoreapp2.1\2TableAPI.pdb
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\obj\Debug\netcoreapp2.1\2TableAPI.dll
+C:\Users\Chase\source\repos\2TableAPI\2TableAPI\obj\Debug\netcoreapp2.1\2TableAPI.pdb
